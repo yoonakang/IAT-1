@@ -65,13 +65,13 @@ To be clear, we are not asking whether these people are important to you. We are
 
 (control example screen: wish phrase)
 
-<img src="https://github.com/cnlab/PhysicalActivity2/blob/master/tasks/compassion_transcendence%20task/imgs/4.jpg" width=300>
+<img src="https://github.com/cnlab/PhysicalActivity2/blob/master/tasks/compassion%20task/imgs/4.jpg" width=300>
 
 ``“Sometimes you will see a wish phrase for an activity.  When you see a wish phrase, repeat the phrase in your mind and be ready to express this wish next.”``
 
 (control example screen: target activity)
 
-<img src="https://github.com/cnlab/PhysicalActivity2/blob/master/tasks/compassion_transcendence%20task/imgs/5.jpg" width=300>
+<img src="https://github.com/cnlab/PhysicalActivity2/blob/master/tasks/compassion%20task/imgs/5.jpg" width=300>
 
 ``“Then you will see an example activity that people do in daily life. Your task is to think of a situation in the future when this wish for a daily activity is fulfilled. Try and REALLY visualize this situation and think of specific details. Keep repeating the wish phrase in your mind as you do this.”``
 
@@ -81,7 +81,7 @@ Make sure they explained the situation.
 
 (control example screen: rating)
 
-<img src="https://github.com/cnlab/PhysicalActivity2/blob/master/tasks/compassion_transcendence%20task/imgs/6.jpg" width=300>
+<img src="https://github.com/cnlab/PhysicalActivity2/blob/master/tasks/compassion%20task/imgs/6.jpg" width=300>
 
 `` “Next, using the button box, please indicate how important this activity is to you. (1=not very important – 4=very important)”``
 
